@@ -1,0 +1,4 @@
+* text=auto eol=lf
+testdata/** -text
+testdata/conformance/** linguist-vendored
+benchmarks/testdata/** -text linguist-vendored
